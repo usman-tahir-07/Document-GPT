@@ -10,6 +10,13 @@ I have used streamlit for the web interface of this application.
 ## Live Video Overview
 
 https://github.com/user-attachments/assets/553be780-36b7-4376-93f7-d0d73d61f210
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`GROQ_API_KEY`
+
 ## Working
 
 Firstly the uploaded documents are going to be converted into chunks becuase of the context window of LLMs and then these chunks are going to be stored in Vector DB which is FAISS and vectors are stored locally in it.
