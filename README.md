@@ -27,3 +27,8 @@ Now when anyone ask the question, it will do similarity search and provide the b
 2-Advance retrieval methods for complex datasets
 
 3-Advance RAG such as Self-RAG for more effecient results
+
+## Connect with Me
+If you have any feedback, please let me know!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-tahir-676a51291)
+
